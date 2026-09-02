@@ -76,7 +76,7 @@ namespace WinFormsApp1
             // 
             // txtMonto
             // 
-            txtMonto.Location = new Point(136, 19);
+            txtMonto.Location = new Point(156, 22);
             txtMonto.Margin = new Padding(3, 2, 3, 2);
             txtMonto.Name = "txtMonto";
             txtMonto.Size = new Size(132, 23);

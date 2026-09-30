@@ -1,0 +1,26 @@
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\bin\Debug\net10.0-windows\app de cambio de medidas.exe
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\bin\Debug\net10.0-windows\db_academica.mdf
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\bin\Debug\net10.0-windows\db_academica_log.ldf
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\bin\Debug\net10.0-windows\app de cambio de medidas.deps.json
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\bin\Debug\net10.0-windows\app de cambio de medidas.runtimeconfig.json
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\bin\Debug\net10.0-windows\app de cambio de medidas.dll
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\bin\Debug\net10.0-windows\app de cambio de medidas.pdb
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\obj\Debug\net10.0-windows\app de cambio de medidas.csproj.AssemblyReference.cache
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\obj\Debug\net10.0-windows\miPrimeaAplicacion.Form1.resources
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\obj\Debug\net10.0-windows\app de cambio de medidas.csproj.GenerateResource.cache
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\obj\Debug\net10.0-windows\app de cambio de medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\obj\Debug\net10.0-windows\app de cambio de medidas.AssemblyInfoInputs.cache
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\obj\Debug\net10.0-windows\app de cambio de medidas.AssemblyInfo.cs
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\obj\Debug\net10.0-windows\app de cambio de medidas.csproj.CoreCompileInputs.cache
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\obj\Debug\net10.0-windows\app de c.99260BD4.Up2Date
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\obj\Debug\net10.0-windows\app de cambio de medidas.dll
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\obj\Debug\net10.0-windows\refint\app de cambio de medidas.dll
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\obj\Debug\net10.0-windows\app de cambio de medidas.pdb
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\obj\Debug\net10.0-windows\app de cambio de medidas.genruntimeconfig.cache
+C:\Users\chris\Downloads\progra-semi-2026-academica\progra-semi-2026-academica\WinFormsApp1\obj\Debug\net10.0-windows\ref\app de cambio de medidas.dll
